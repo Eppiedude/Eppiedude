@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Steven 👋
 
-<!--
-**Eppiedude/Eppiedude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial automation, home automation and open-source tinkering.
 
-Here are some ideas to get you started:
+I like solving real technical problems — from industrial controls and Home Assistant integrations to local AI infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Open-source work
+
+### 🏠 Domintell for Home Assistant
+
+Contributor to the Domintell Home Assistant integration.
+
+- Legacy shutter state conversion fix
+- Home Assistant / Domintell integration work
+
+[View contribution](https://github.com/Domintell/ha_domintell/pull/14)
+
+---
+
+### 🤖 OpenClaw
+
+Open-source contributor to OpenClaw.
+
+- Bugfix contributed and merged upstream
+- Recognized as contributor / co-author
+
+[View OpenClaw](https://github.com/openclaw/openclaw)
+
+---
+
+## 🧰 Interests
+
+- Industrial automation
+- Home Assistant
+- Domintell
+- Local AI
+- Open-source software
+- Docker & Linux
+- Smart home integrations
+
+## 📊 GitHub
+
+![GitHub followers](https://img.shields.io/github/followers/Eppiedude?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/Eppiedude?style=flat)
